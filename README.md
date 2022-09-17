@@ -35,9 +35,9 @@ Development tools:
 [![My Skills](https://skills.thijs.gg/icons?i=vscode,eclipse,git)](https://skills.thijs.gg)
 
 
-# Github stats
+# Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Sumer)](https://github.com/anuraghazra/github-readme-stats)
 
 # You can always reach out to me
 
