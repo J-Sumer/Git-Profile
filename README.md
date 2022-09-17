@@ -14,7 +14,7 @@
 - :man_technologist: I love to build tools that are used by other developers to increase productivity and eliminate redudent work.
 - :dog::dog::dog::dog: And most importantly I loooove dogs. :dog::dog::dog::dog:
 
-# Technologies I am interested in
+# Technologies I am familiar with
 
 Programming Languages:
 
