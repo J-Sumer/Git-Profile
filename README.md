@@ -3,7 +3,7 @@
 # I am a software developer with keen interest in building Web Application
 
 - :green_book: I'm currently pursuing Master's at North Carolina State University.
-- :computer: I'm have worked as Software Developer at Tata Consultancy Services from June 2019 to Jan 2022.
+- :computer: I have worked as Software Developer at Tata Consultancy Services from June 2019 to Jan 2022.
 - :shopping: I have worked on building scalable applications for Retail clients. 
 - :factory: I have experience building web applications uisng React.js, Node.js, Express.js, Ruby on Rails, MongoDB, SQL, Java.
 
