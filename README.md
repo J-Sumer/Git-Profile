@@ -1,7 +1,7 @@
-### Hi there, I'm Jyothi Sumer Goud Maduru
-
+### Hi there, I'm ``` Jyothi Sumer Goud Maduru ```
+<br/>
 <div id="header" align="center">
-  <img src="./images/coding.gif" width="250"/>
+  <img src="./images/coding.gif" width="120"/>
 </div>
 
 # I am a software developer with keen interest in building Web Application
