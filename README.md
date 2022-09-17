@@ -1,7 +1,7 @@
 ### Hi there, I'm Jyothi Sumer Goud Maduru
 
 <div id="header" align="center">
-  <img src="https://tenor.com/search/coding-gifs" width="100"/>
+  <img src="./images/coding.gif" width="250"/>
 </div>
 
 # I am a software developer with keen interest in building Web Application
