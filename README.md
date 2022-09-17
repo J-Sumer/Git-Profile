@@ -1,5 +1,9 @@
 ### Hi there, I'm Jyothi Sumer Goud Maduru
 
+<div id="header" align="center">
+  <img src="https://tenor.com/search/coding-gifs" width="100"/>
+</div>
+
 # I am a software developer with keen interest in building Web Application
 
 - :green_book: I'm currently pursuing Master's at North Carolina State University.
