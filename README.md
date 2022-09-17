@@ -18,7 +18,7 @@ Programming Languages:
 
 Web Technologies:
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,react,angular,go,java,ruby,mongodb,mysql,nodejs,nextjs,ruby)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,react,angular,go,java,ruby,mongodb,mysql,nodejs,nextjs,ruby)](https://skills.thijs.gg)
 
 
 Devops Tools:
@@ -29,3 +29,8 @@ Devops Tools:
 Development tools:
 
 [![My Skills](https://skills.thijs.gg/icons?i=vscode,eclipse,git)](https://skills.thijs.gg)
+
+# You can always reach out to me
+
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jyothi-sumer-goud-maduru-4636bb154/) [<img align="left" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/J-Sumer/) [<img align="left" alt="gmail" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=jsumermaduru@gmail.com) 
+
